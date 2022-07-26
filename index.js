@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('Te veo el sabado entonces <3')
+    alert('Espero que no lo tomes a mal, yo solo quiero que me conozca bien y yo tambien conocerla bien a usted... y una salida es perfecto, no? <3')
 });
 
 const noBtn = document.querySelector('#noBtn');
